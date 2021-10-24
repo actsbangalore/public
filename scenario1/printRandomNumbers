@@ -1,15 +1,13 @@
 #/bin/bash
 
-# Sample script to generate random numbers to terminal
+# Sample script to generate random numbers to terminal - 1 number at a time
 
 # Author : Umesh Kumar Soni
 
 
 function ren_gen(){
 
-# read input
-
-declare -i $NUM=$1
+echo $[ RANDOM % 10 + 1]
 
 }
 
