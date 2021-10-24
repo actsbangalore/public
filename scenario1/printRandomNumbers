@@ -1,0 +1,15 @@
+#/bin/bash
+
+# Sample script to generate random numbers to terminal
+
+# Author : Umesh Kumar Soni
+
+
+function ren_gen(){
+
+# read input
+
+declare -i $NUM=$1
+
+}
+
