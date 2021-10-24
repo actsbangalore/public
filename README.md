@@ -1,3 +1,2 @@
-#Readme
-For scneraio 1 goto folder1
-For scneraio 2 goto folder2
+For scneraio 1 goto scneraio1
+For scneraio 2 goto scneraio2
