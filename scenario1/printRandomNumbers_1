@@ -2,10 +2,7 @@
 # Sample script to generate random numbers to terminal - "One number at a time"
 # Author : Umesh Kumar Soni
 
-
-function ren_gen(){
-
 echo $[ RANDOM % 10 + 1]
 
-}
+# RANDOM
 
