@@ -1,0 +1,11 @@
+#/bin/bash
+# Sample script to generate random numbers to terminal - "One number at a time"
+# Author : Umesh Kumar Soni
+
+shuff -i 1-10 -n 10
+
+# shuff 
+# -i 
+# 1-10 
+# -n 
+# 10
