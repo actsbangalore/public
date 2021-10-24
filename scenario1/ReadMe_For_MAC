@@ -1,1 +1,13 @@
+Steps for MAC
 
+# copy the code from the file "https://github.com/actsbangalore/public/blob/success/scenario1/printRandomNumbers_1_to_10"
+1) Copy the code from the file "printRandomNumbers_1_to_10"
+
+# open the terminal in MAC and create/save script file e.g. named "printRandomNUM.sh"
+2) vi printRandomNUM.sh and paste the code copied, save and exit.
+
+# provide execute permission 
+3) chmod +x printRandomNUM.sh
+
+#execute the file
+4) ./printRandomNUM.sh
