@@ -1,0 +1,5 @@
+Below are few of the possible challenges while designing/building monitoring system.
+
+1) Analysing what are all the important metrics to monitor.
+2) Setting up approximate trigger warning value so to minimize false alarm.
+3) We need to make sure that monitoring tool is not effecting the server's performance.
