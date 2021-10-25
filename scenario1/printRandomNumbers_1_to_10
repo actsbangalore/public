@@ -4,7 +4,7 @@
 
 shuf -i 1-10 -n 10
 
-# shuf -> function for random numbers
+# shuf -> function for generating random numbers
 # -i -> input range 
 # 1-10 -> LOW - HIGH 
 # -n -> head count 
