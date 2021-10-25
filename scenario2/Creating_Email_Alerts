@@ -1,0 +1,21 @@
+                                                              Sending/Receiving problem notification
+
+It would be useful to have a alerting mechanism in place that would notify us about important events even when we are not directly looking at Zabbix frontend.
+
+Steps to configure an alert via Email.
+
+E-mail settings
+    Go to Administration → Media types 
+    Click on Email in the list of pre-defined media types.
+    Set the values of SMTP server, SMTP helo and SMTP e-mail to the appropriate for your environment.
+    Press Update.
+
+
+New action
+    To set up a notification, go to Configuration → Actions 
+    Click on Create action.
+    Compled the Actions and Operations form details 
+    Click Add
+
+Receiving notification
+    We should receive a problem notification in your e-mail
