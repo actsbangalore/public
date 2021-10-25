@@ -1,0 +1,23 @@
+                                                                   Monitoring a Host
+Assumptions/prerquisites
+- Zabbix server 
+- Web admin installed, 
+- Set up zabbix_agentd on monitored host. 
+
+Now we can add that host to web admin so we can monitor it
+
+        - Log into your web admin by entering the following URL in your web browser: http://xxx.xxx.xx.xx/zabbix
+
+        - Click the Configuration tab -> Hosts menu item -> Create Host button -> Zabbix add host screen will appears.
+
+        - Enter a name for the host in the Name field (This will be displayed on your server list)
+
+        - Add the IP address of monitored host to the IP Address field.
+
+        - Click the Add button in the top right corner under the Linked Templates section.
+
+        - Choose appropriate template (Linux/Windows etc)
+
+        - Once we have all server information added and template linked, click Save.
+ 
+ Monitored host is added successfully.
