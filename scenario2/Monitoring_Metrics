@@ -1,0 +1,18 @@
+                                                                        Monitoring Metrics
+
+    Server metrics:
+        •	CPU
+            1.	CPU used
+            2.	CPU load
+            3.	CPU temperature
+        •	Memory usage
+        •	I/O
+            1.	Disk space usage
+            2.	IO read, IO write
+        •	Network
+            1.	Network traffic
+            2.	TCP connection states
+        •	Sever state (Running/Stopped)
+
+    Application metrics:
+        •	SSL certificates validate status
