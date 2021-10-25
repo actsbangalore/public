@@ -1,8 +1,0 @@
-#/bin/bash
-# Sample script to generate random numbers to terminal - "One number at a time"
-# Author : Umesh Kumar Soni
-
-echo $[ RANDOM % 10 + 1]
-
-# RANDOM
-
